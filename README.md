@@ -48,11 +48,11 @@ goodland-s.e:
 
 Questo è il file che contiene la storia vera e propria, il singolo episodio, e dovrebbe seguire delle fasi di sviluppo passando per 3 fasi:
 
--beta: viene decisa la narrazione della puntata e la timeline dei vari personaggi, senza sviluppare le singole parti e senza scrivere il finale dell’episodio
+- beta: viene decisa la narrazione della puntata e la timeline dei vari personaggi, senza sviluppare le singole parti e senza scrivere il finale dell’episodio
 
--RC1 (release candidate): viene sviluppata la narrazione decisa nella beta, vengono fatti i testi e le bozze per l’episodio, si mantengono due finali opposti, che poi vengono decisi all’ultimo
+- RC1 (release candidate): viene sviluppata la narrazione decisa nella beta, vengono fatti i testi e le bozze per l’episodio, si mantengono due finali opposti, che poi vengono decisi all’ultimo
 
--stable: viene rilasciata come versione definitiva ufficiale dell’episodio.
+- stable: viene rilasciata come versione definitiva ufficiale dell’episodio.
 
 
 goodland-dev: 
@@ -66,5 +66,5 @@ todo.txt: È la lista degli elementi (e anche personaggi) da icludere nell’arc
 ################################CARTELLE####################################
 
 Sono previste alcune cartelle:
--Personaggi: contiene le singole biografie e le immagini proposte per i singoli personaggi, eventualmente organizzati in sottocartelle
--Ambientazioni: Contiene la descrizione di paesaggi e ambientazioni e le loro rappresentazioni
+- Personaggi: contiene le singole biografie e le immagini proposte per i singoli personaggi, eventualmente organizzati in sottocartelle
+- Ambientazioni: Contiene la descrizione di paesaggi e ambientazioni e le loro rappresentazioni
