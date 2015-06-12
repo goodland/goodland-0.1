@@ -63,7 +63,7 @@ todo.txt: È la lista degli elementi (e anche personaggi) da icludere nell’arc
 
 
 
-################################CARTELLE####################################
+#CARTELLE
 
 Sono previste alcune cartelle:
 - Personaggi: contiene le singole biografie e le immagini proposte per i singoli personaggi, eventualmente organizzati in sottocartelle
