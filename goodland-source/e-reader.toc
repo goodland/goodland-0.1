@@ -1,3 +1,0 @@
-\contentsline {section}{\numberline {1}Introduzione}{1}{section.1}
-\contentsline {section}{\numberline {2}Parallelismi}{1}{section.2}
-\contentsline {subsection}{\numberline {2.1}giusto per}{1}{subsection.2.1}
