@@ -10,7 +10,7 @@ Ma tra la periferie e la poca campagna rimasta si nasconde un gruppo di autocton
 
 In realtà Goodland sarà una "meta-storia", la storia e la descrizione del mondo in cui si svolgeranno gli episodi e le stagioni del nostro fumetto...
 
-Ah si, in effetti bisognava scrivere prima che  alla fine di tutto verrà fuori un fumetto (o meglio, una raccolta di fumetti). 
+Eh si, in effetti bisognava scrivere prima che  alla fine di tutto verrà fuori un fumetto (o meglio, una raccolta di fumetti). 
 
 Una raccolta di fumetti distribuita come un software libero (perchè la nostra storia, in realtà, parlerà molto di software libero).
 
